@@ -1,0 +1,30 @@
+[33mcommit db3230a01676ed0d3e4e5fe73fa7be0407f6ccd5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Merge: 88f562a d6c1370
+Author: ATYLLA KOSSATZ <tiago.sousa.costa.87@gmail.com>
+Date:   Wed Feb 21 14:52:01 2024 +0000
+
+    Merge branch 'novoBotao'
+
+[33mcommit d6c13700f35d87d238c2f640f6e2c085ce848568[m[33m ([m[1;32mnovoBotao[m[33m)[m
+Author: ATYLLA KOSSATZ <tiago.sousa.costa.87@gmail.com>
+Date:   Wed Feb 21 14:50:58 2024 +0000
+
+    novo botao added
+
+[33mcommit 88f562a81bdb79f33eb17b314aaa4624c736f7fa[m
+Author: ATYLLA KOSSATZ <tiago.sousa.costa.87@gmail.com>
+Date:   Wed Feb 21 14:34:46 2024 +0000
+
+    ficheiros apagados
+
+[33mcommit 52a0414d8715b4dea04c1b1b4d69fc232e146e63[m
+Author: ATYLLA KOSSATZ <tiago.sousa.costa.87@gmail.com>
+Date:   Wed Feb 21 14:28:11 2024 +0000
+
+    ficheiro de dados alterado
+
+[33mcommit 5d9e9388120afb15582af2f72bc95c67d080c56a[m
+Author: ATYLLA KOSSATZ <tiago.sousa.costa.87@gmail.com>
+Date:   Wed Feb 21 14:26:27 2024 +0000
+
+    Gravação inicial - criados ficheiros de dados, imagem, musica e videos
